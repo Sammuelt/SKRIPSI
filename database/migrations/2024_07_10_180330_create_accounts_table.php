@@ -1,0 +1,1 @@
+php artisan make:migration change_password_length_in_accounts_table
