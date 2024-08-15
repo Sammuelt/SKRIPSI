@@ -37,11 +37,3 @@ Project ini merupakan website sistem informasi management sekolah dan laporan pe
 
 Laravel => https://www.youtube.com/playlist?list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU
 Tailwind component => https://www.hyperui.dev/ & https://flowbite.com/docs/getting-started/quickstart/
-
-## Project Progress
-
-..
-
-## Source
-
-https://utyac-my.sharepoint.com/:f:/g/personal/abdurrahman_5200411206_student_uty_ac_id/EpA6Erz4_OxJrgsKGM3B4vEBF6t6Ck7iHtOfddurEZ6ycQ?e=Hr9m4m
